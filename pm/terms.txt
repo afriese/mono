@@ -1,0 +1,7 @@
+Some important terms
+
+English					German
+--------------------------------------------
+mortage					Hypothek
+community chest			Gemeinschaftskarte
+chance					Ereignisfeld

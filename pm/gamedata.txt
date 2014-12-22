@@ -1,0 +1,82 @@
+// global settings
+{
+	"mode":normal (or time)
+	"currency":"Euro",
+	"directstart":400, // über los
+	"overstart":200,
+	"jailfee":200,
+	"parkingmode":nojack (or jack)
+	"credit":5000,
+	"mortage":true (true false)
+	"mortageinterest":10 // value in %
+	"streetset":german_classic
+	"streetdistibution":manual (auto,auction)
+	"community_chest":manual or auto
+	"chance":manual,
+	"jailrent":true (or false),
+	"finish":2,
+	"moneydiffrence"
+	"dice":manual (computer)
+	"taxes": TBD
+
+}
+
+
+
+// spieler
+
+{
+	"name":"Chistus power",
+	"user_id":"12323",
+	"password":"bublbla",
+	"token":256bit
+	"guthaben":"-3000",
+	"estates":[
+		{
+			"estate_id":1,
+			"houses"
+		}
+	],
+	"offers":[
+		{
+			"time_limit",
+			"yoursteets":[1,5,6],
+			"yourmoney":2000,
+			"hisstreets":[8,5,3],
+			"hismoney":5000
+		}
+	]
+	"transactions":[
+		{
+			"from",12345,
+			"to":12123,
+			"amount":123.87,
+			"purpose":"Bulb und Bla"
+		}
+	]
+}
+
+// besitzkarten
+{
+	"usual":{
+
+	},
+	"rail":{
+
+	},
+	"plants":{
+
+	}
+
+}
+
+
+// gemeinschaftskarten
+
+
+
+
+// initgame (wizzard)
+
+
+// join game

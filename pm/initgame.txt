@@ -1,0 +1,13 @@
+setting up a game
+
+By game administrator
+1. select global variables (such as currency)
+2. select estate mode (random distribution/play)
+
+preconfiguration
+save config
+professional configuration
+
+
+If finished all player may join the game
+1. Select name

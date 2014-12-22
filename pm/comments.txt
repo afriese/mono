@@ -1,0 +1,21 @@
+if a player goes bankrupt a message to all player will be displayed
+where can can a inconsistency come up?
+
+different default values in diffrenent json files
+different streetsets in jsonfiles
+
+may be an alert for facebookers
+maybe a flow of events (player may deny actions or blame them as unfair)
+quickbar
+
+hotkeys!
+
+security?????
+
+request for changing any data
+
+reset and save options
+
+onepage?? (i think its good)
+
+if playing mouse & scoling might be annoying

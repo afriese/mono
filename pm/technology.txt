@@ -1,0 +1,16 @@
+Frontend
+- metro ui
+- knockout
+- jquery
+
+Connection
+- REST
+- every request has to send the user token
+
+Serverside
+- data in memory
+- nodejs
+
+
+
+SUBLIME rules
