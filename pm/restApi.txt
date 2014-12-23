@@ -3,9 +3,9 @@ street		- streetname
 
 /action/communitychest/
 /action/chance/
-/jail/
-/jail/imprison
-/jail/free
+/action/jail/
+/action//jail/imprison
+/action//jail/free
 /estate/all
 /estate/*street*/
 /estate/*street*/house/buy
